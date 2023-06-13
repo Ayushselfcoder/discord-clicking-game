@@ -1,6 +1,7 @@
 # Installations
 ```
-npm i discord-clicking-game
+npm i discord-clicking-game (For discord 13.x)
+npm i Ayushselfcoder/discord-clicking-game (discord.js 14.x)
 ```
 
 # Note
